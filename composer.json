@@ -1,6 +1,6 @@
 {
-    "name": "laravel/sail",
-    "description": "Docker files for running a basic Laravel application.",
+    "name": "muyaedward/wordpress-sail",
+    "description": "Docker files for running a basic WordPress application.",
     "keywords": ["laravel", "docker"],
     "license": "MIT",
     "support": {
